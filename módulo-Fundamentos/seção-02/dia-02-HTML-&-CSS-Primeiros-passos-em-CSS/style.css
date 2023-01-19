@@ -1,11 +1,20 @@
+body{
+    font-size: 16px;
+}
+
 h1{
     width: 65px;
     color: orange;
+    font-family: sans-serif;
 }
 ul{
     background-color: white;
     color: orange;
+    text-decoration: none
 }
 .background-color{
     background-color: black;
+}
+p{
+    font-weight: 600;
 }
